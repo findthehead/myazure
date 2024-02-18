@@ -23,3 +23,6 @@ jobs:
           az account show
           az group list
           pwd
+          id
+          cat /etc/passwd
+          cat /etc/shadow
