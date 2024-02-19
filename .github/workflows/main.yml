@@ -20,9 +20,4 @@ jobs:
   
     - name: 'Run Azure CLI commands'
       run: |
-          az account show
-          az group list
-          pwd
-          id
-          cat /etc/passwd
-          cat /etc/shadow
+          az group create --naem subhay2
