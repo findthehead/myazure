@@ -20,4 +20,4 @@ jobs:
   
     - name: 'Run Azure CLI commands'
       run: |
-          az group create --naem subhay2
+          az group create --name mygroup1
